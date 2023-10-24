@@ -14,7 +14,7 @@ body{
     justify-content: center;
     height: 100vh;
     background-color: #000000;
-    opacity: 0.4;
+    opacity: 1;
     background-image:  linear-gradient(30deg, #ffef00 12%, transparent 12.5%, transparent 87%, #ffef00 87.5%, #ffef00), linear-gradient(150deg, #ffef00 12%, transparent 12.5%, transparent 87%, #ffef00 87.5%, #ffef00), linear-gradient(30deg, #ffef00 12%, transparent 12.5%, transparent 87%, #ffef00 87.5%, #ffef00), linear-gradient(150deg, #ffef00 12%, transparent 12.5%, transparent 87%, #ffef00 87.5%, #ffef00), linear-gradient(60deg, #ffef0077 25%, transparent 25.5%, transparent 75%, #ffef0077 75%, #ffef0077), linear-gradient(60deg, #ffef0077 25%, transparent 25.5%, transparent 75%, #ffef0077 75%, #ffef0077);
     background-size: 44px 77px;
     background-position: 0 0, 0 0, 22px 39px, 22px 39px, 0 0, 22px 39px;   
