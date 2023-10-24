@@ -13,7 +13,8 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background: rgb(0,0,0);
+    background: linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(253,209,45,1) 100%);
 }
 
 h1{
