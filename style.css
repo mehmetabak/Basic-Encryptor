@@ -13,8 +13,9 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: rgb(0,0,0);
-    background: linear-gradient(135deg, rgba(0,0,0,1) 0%, rgba(253,209,45,1) 100%);
+    background-color: #000000;
+    opacity: 0.8;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #000000 22px ), repeating-linear-gradient( #ffef0055, #ffef00 );
 }
 
 h1{
